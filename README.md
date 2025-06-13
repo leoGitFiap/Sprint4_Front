@@ -7,7 +7,8 @@ Para facilitar seu acesso, pode-se clicar na opção 'Saiba mais' presente no me
 
 O projeto também pode ser encontrado em: https://github.com/leoGitFiap/Sprint4_Front
 
-Integrantes:
+# Integrantes:
+
 Leonardo Fernandes Mesquita | RM: 559623
 
 Guilherme Augusto Caseiro | RM: 559765
