@@ -1,0 +1,43 @@
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.nav-menu {
+    background-color: var(--primary-color);
+    padding: 1rem;
+}
+
+.nav-menu .nav-link {
+    color: white;
+    font-weight: bold;
+}
+
+.nav-menu .nav-link:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: var(--secondary-color);
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+@media (max-width: 768px) {
+    .nav-menu .nav {
+        flex-direction: column;
+        text-align: center;
+    }
+}
