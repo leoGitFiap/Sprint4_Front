@@ -9,5 +9,7 @@ O projeto também pode ser encontrado em: https://github.com/leoGitFiap/Sprint4_
 
 Integrantes:
 Leonardo Fernandes Mesquita | RM: 559623
+
 Guilherme Augusto Caseiro | RM: 559765
+
 Marco Antonio Caires Freire | RM: 559256
